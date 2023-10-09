@@ -36,9 +36,7 @@ My research interest includes geometric modeling and primitive detection.
 
 **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Paper**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) | [**Code**](https://github.com/xiaowuga/PrimFit)
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) \| [**Code**](https://github.com/xiaowuga/PrimFit)
 
 </div>
 </div>
