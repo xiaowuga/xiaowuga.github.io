@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingen Jiang"
-description              : "Jingen Jiang's Homepage"
+description              : "Eng.D Candidate in SDU"
 repository               : "xiaowuga/xiaowuga.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingen Jiang"
+  name             : "Jingen Jiang (江敬恩)"
   avatar           : "images/my_photo.jpg"
   bio              : "I am Ganyu's dog"
   location         : "Shandong, China"
