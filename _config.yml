@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingen Jiang (江敬恩)"
+  name             : "Jingen Jiang"
   avatar           : "images/my_photo.jpg"
   bio              : "I am Ganyu's dog"
   location         : "Shandong, China"
