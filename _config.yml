@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingen Jiang's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Jingen Jiang"
+description              : "Jingen Jiang's Homepage"
 repository               : "xiaowuga/xiaowuga.github.io"
 google_scholar_stats_use_cdn : false
 
