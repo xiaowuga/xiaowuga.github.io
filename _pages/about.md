@@ -44,16 +44,20 @@ My research interest includes geometric modeling and primitive detection.
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Merit Student 2022**, University of Chinese Academy of Sciences
+- *2019.05* **Provincial Champion in Hebei(rank 1/267)**, Heibei Collegiate Programming Contest
+- *2018.12* **Silver Medal**, ACM/ICPC Asia-East Continent Final
+- *2018.10* **Silver Medal**, ACM/ICPC Asia Regional Contest
+- *2018.09* **Silver Medal**, China Collegiate Programming Contest
+- *2018.06* **Gold Medal**, ACM/ICPC Invitational Contest.
+- *2018.05* **Silver Medal**,China Collegiate Programming Invitational Contest
+- *2018.03* **Provincial Champion in Tianjin**, Group Programming Ladder Tournament
+- *2017.03* **Provincial Champion in Tianjin**, Group Programming Ladder Tournament
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - now*, **Eng.D in Computer Technology**, in progress, Shandong University, Qindao, Shandong, China
+- *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China
+- *2016.09 - 2020.06*, **B.Eng in Software Engineering**, Tiangong University, Tianjin, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2023.06*, AMSS CAS,research in CAD Modeling advised by [Xiaohong Jia](http://www.mmrc.iss.ac.cn/~xhjia/).
