@@ -29,7 +29,7 @@ My research interest includes geometric modeling and primitive detection.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit_Overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit_Overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structure-Aware Surface Reconstruction via Primitive Assembly](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly)
