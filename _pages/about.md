@@ -32,16 +32,16 @@ My research interest includes geometric modeling and primitive detection.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Structure-Aware Surface Reconstruction via Primitive Assembly**
+[**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly)
 
 **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Paper**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) \| [**Code**](https://github.com/xiaowuga/PrimFit)
+[**Code**](https://github.com/xiaowuga/PrimFit)
 
 </div>
 </div>
 
-- ``TVCG 2022`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jingen Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
+- ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jingen Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
 - ``ICME 2022`` <span style="color:red">(Oral)</span> [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
 - ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jingen Jiang**, Dong-Ming Yan \| [Code](https://github.com/weizequan/TASHR)
 
