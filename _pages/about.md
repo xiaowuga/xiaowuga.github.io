@@ -19,8 +19,7 @@ redirect_from:
 
 I am a first year Eng.D candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). 
 
-Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. Outside of work, I am a big fan of Rubik's cube and harmonica.
-
+Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. Outside of work, I enjoy in in solving Rubik's cubes and playing table tennis.
 
 My research interest includes geometric modeling and primitive detection.
 
