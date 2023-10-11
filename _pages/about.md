@@ -32,11 +32,11 @@ My research interest includes geometric modeling and primitive detection.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Structure-Aware Surface Reconstruction via Primitive Assembly**
+[**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) 
 
 **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Paper**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) \| [**Code**](https://github.com/xiaowuga/PrimFit)
+[**Code**](https://github.com/xiaowuga/PrimFit)
 
 </div>
 </div>
