@@ -47,7 +47,7 @@ My research interest includes geometric modeling and primitive detection.
 
 # 🎖 Honors and Awards
 - **Merit Student 2022**, University of Chinese Academy of Sciences
-- *2019.05* **Provincial Champion in Hebei(rank 1/267)**, Heibei Collegiate Programming Contest
+- *2019.05* **Provincial Champion in Hebei**, Heibei Collegiate Programming Contest
 - *2018.12* **Silver Medal**, ACM/ICPC Asia-East Continent Final
 - *2018.10* **Silver Medal**, ACM/ICPC Asia Regional Contest
 - *2018.09* **Silver Medal**, China Collegiate Programming Contest
