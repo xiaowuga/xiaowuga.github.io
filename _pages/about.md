@@ -51,7 +51,7 @@ My research interest includes geometric modeling and primitive detection.
 - *2018.09* **Silver Medal**, China Collegiate Programming Contest
 
 # 📖 Educations
-- *2023.09 - now*, **Eng.D in Computer Technology**, in progress, Shandong University, Qindao, Shandong, China
+- *2023.09 - now*, **Ph.D in Computer Technology**, in progress, Shandong University, Qindao, Shandong, China
 - *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China
 - *2016.09 - 2020.06*, **B.Eng in Software Engineering**, Tiangong University, Tianjin, China
 
