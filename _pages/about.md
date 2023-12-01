@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first year Eng.D candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). 
+I am a first year Ph.D candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). 
 
 Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. Outside of work, I am a big fan of badminton, ping-pong, fishing and Rubik's cube.
 
@@ -42,7 +42,7 @@ My research interest includes geometric modeling and primitive detection.
 </div>
 
 - ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jingen Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
-- ``ICME 2022`` <span style="color:red">(Oral)</span> [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
+- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
 - ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jingen Jiang**, Dong-Ming Yan \| [Code](https://github.com/weizequan/TASHR)
 
 # 🎖 Honors and Awards
