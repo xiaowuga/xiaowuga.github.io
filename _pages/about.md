@@ -29,6 +29,19 @@ Outside of work, I am a big fan of Rubik's cube.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://xiaowuga.github.io/) 
+
+<!-- **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup> -->
+**Mingyang Zhao, Jingen Jiang, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan**
+
+[**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
