@@ -37,7 +37,7 @@ Outside of work, I am a big fan of Rubik's cube.
 <!-- **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup> -->
 Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
-<span style="color:red">(Highlight)</span> \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
+<span style="color:red"> Highlight Paper</span> \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
 
 </div>
 </div>
