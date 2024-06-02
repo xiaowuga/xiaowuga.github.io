@@ -24,8 +24,7 @@ Previously I received my master's degree in University of Chinese Academy of Sci
 Outside of work, I am a big fan of Rubik's cube.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 One paper **'Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis'** got accepted by CVPR 24.
-- *2023.07*: &nbsp;🎉🎉 One paper **'Structure-Aware Surface Reconstruction via Primitive Assembly'** got accepted by ICCV 23. 
+- *2024.02*: &nbsp;🎉🎉 One paper **'Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis'** got accepted by CVPR 24. 
 
 # 📝 Publications 
 
