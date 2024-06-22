@@ -31,12 +31,12 @@ Outside of work, I am a big fan of Rubik's cube.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight </div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://xiaowuga.github.io/) 
+[**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
 <!-- **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup> -->
 Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
-[**Project**](https://diffsinger.github.io/) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
+[**Project**](https://xiaowuga.github.io/pub/CluReg/index.html) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
 
 </div>
 </div>
