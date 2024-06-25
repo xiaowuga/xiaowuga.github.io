@@ -33,10 +33,9 @@ Outside of work, I am a big fan of Rubik's cube.
 
 [**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
-<!-- **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup> -->
 Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
-[**Project**](https://xiaowuga.github.io/pub/CluReg/index.html) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
+[**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
 
 </div>
 </div>
