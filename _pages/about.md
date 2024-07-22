@@ -24,6 +24,7 @@ Previously I received my master's degree in University of Chinese Academy of Sci
 Outside of work, I am a big fan of Rubik's cube.
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 One paper **'A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting'** got accepted by TPAMI. 
 - *2024.02*: &nbsp;🎉🎉 One paper **'Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis'** got accepted by CVPR 24. 
 
 # 📝 Publications 
