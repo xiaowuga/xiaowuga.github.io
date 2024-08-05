@@ -36,7 +36,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
-[**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg)
+[**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Github**](https://github.com/zikai1/CVPR24_PointSetReg) \| [**Poster**](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Ya
 
 **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Code**](https://github.com/xiaowuga/PrimFit)
+[**Github**](https://github.com/xiaowuga/PrimFit)[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
 
 </div>
 </div>

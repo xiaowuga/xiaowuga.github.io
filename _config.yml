@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingen Jiang"
-description              : "Ph.D Candidate in SDU"
+title                    : "Jing-En Jiang"
+description              : "Ph.D Student in SDU"
 repository               : "xiaowuga/xiaowuga.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingen Jiang"
+  name             : "Jing-En Jiang"
   avatar           : "images/2.jpg"
-  bio              : "I am Ganyu's dog"
+  bio              : "江敬恩"
   location         : "Shandong, China"
   employer         :
   pubmed           : 
