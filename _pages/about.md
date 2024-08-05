@@ -54,8 +54,8 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 
 - ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
-- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
-- ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jing-En Jiang**, Dong-Ming Yan \| [Code](https://github.com/weizequan/TASHR)
+- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Github](https://github.com/xiaowuga/EDSF)
+- ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jing-En Jiang**, Dong-Ming Yan \| [Github](https://github.com/weizequan/TASHR)
 
 # 🎖 Honors and Awards
 - **Merit Student 2022**, University of Chinese Academy of Sciences
