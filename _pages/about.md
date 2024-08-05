@@ -48,7 +48,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Github**](https://github.com/xiaowuga/PrimFit)[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
+[**Github**](https://github.com/xiaowuga/PrimFit) \| [**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
 
 </div>
 </div>
