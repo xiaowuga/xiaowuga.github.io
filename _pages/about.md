@@ -34,7 +34,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 [**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
-Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
+Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
 [**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Github**](https://github.com/zikai1/CVPR24_PointSetReg) \| [**Poster**](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
 
@@ -46,16 +46,16 @@ Mingyang Zhao, **Jingen Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Ya
 
 [**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://www.researchgate.net/publication/373147183_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly) 
 
-**Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
+**Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
 [**Github**](https://github.com/xiaowuga/PrimFit)[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
 
 </div>
 </div>
 
-- ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jingen Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
-- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jingen Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
-- ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jingen Jiang**, Dong-Ming Yan \| [Code](https://github.com/weizequan/TASHR)
+- ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
+- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> \| [Code](https://github.com/xiaowuga/EDSF)
+- ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jing-En Jiang**, Dong-Ming Yan \| [Code](https://github.com/weizequan/TASHR)
 
 # 🎖 Honors and Awards
 - **Merit Student 2022**, University of Chinese Academy of Sciences
