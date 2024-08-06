@@ -29,6 +29,19 @@ Outside of work, I am a big fan of Rubik's cube.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
+
+Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Dong-Ming Yan, Tiejun Huang
+
+[**Github**](https://github.com/zikai1/BayFit)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight </div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,13 +66,37 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 </div>
 
-- ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
-- ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023 </div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Accurate Registration of Cross-Modality Geometry via Consistent Clustering**](https://ieeexplore.ieee.org/document/10049688)
+
+Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
+
+[**Github**](https://github.com/zikai1/CrossModReg)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022 </div><img src='images/EDSF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest**](https://ieeexplore.ieee.org/document/9859889)
+
+**Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup>
+
+[**Github**](https://github.com/xiaowuga/EDSF)
+
+</div>
+</div>
+
+<!-- - ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma -->
+<!-- - ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> 
 
 [Github](https://github.com/xiaowuga/EDSF)
 - ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jing-En Jiang**, Dong-Ming Yan  
 
-[Github](https://github.com/weizequan/TASHR)
+[Github](https://github.com/weizequan/TASHR) -->
 
 # 🎖 Honors and Awards
 - **Merit Student 2022**, University of Chinese Academy of Sciences
