@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing-En Jiang (江敬恩). I am now a first year Ph.D student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). I am also working closely with [Dr. Mingyang Zhao](https://zikai1.github.io/).
+Hi! My name is Jing-En Jiang (江敬恩). I am now a second year Ph.D student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). I am also working closely with [Dr. Mingyang Zhao](https://zikai1.github.io/).
 
 Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. 
 
@@ -27,9 +27,21 @@ Outside of work, I am a big fan of Rubik's cube.
 - *2024.07*: &nbsp;🎉🎉 One paper **'A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting'** got accepted by TPAMI. 
 - *2024.02*: &nbsp;🎉🎉 One paper **'Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis'** got accepted by CVPR 24. 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Journal Track </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**]
+
+**Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
