@@ -29,7 +29,7 @@ Outside of work, I am a big fan of Rubik's cube.
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Journal Track </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Journal Track </div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**]
@@ -40,7 +40,7 @@ Outside of work, I am a big fan of Rubik's cube.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
