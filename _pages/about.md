@@ -29,10 +29,12 @@ Outside of work, I am a big fan of Rubik's cube.
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2025 Journal Track </div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/)
+
+**SIGGRAPH 2025 Journal Track**
 
 **Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
 
@@ -40,10 +42,13 @@ Outside of work, I am a big fan of Rubik's cube.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
+
+
+**IEEE Transactions on Pattern Analysis and Machine Intelligence 2024**
 
 Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Dong-Ming Yan, Tiejun Huang
 
