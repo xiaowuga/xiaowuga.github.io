@@ -52,7 +52,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Dong-Ming Yan, Tiejun Huang
 
-[**Github**](https://github.com/zikai1/BayFit)
+[**Code**](https://github.com/zikai1/BayFit)
 
 </div>
 </div>
@@ -63,11 +63,11 @@ Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Don
 
 [**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
-**IEEE Conference on Computer Vision and Pattern Recognition 2024, Highlight paper**
+**IEEE Conference on Computer Vision and Pattern Recognition 2024, Highlight**
 
 Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
-[**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Github**](https://github.com/zikai1/CVPR24_PointSetReg) \| [**Poster**](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
+[**Project**](https://zikai1.github.io/pub/CluReg/index.html) \| [**Code**](https://github.com/zikai1/CVPR24_PointSetReg) \| [**Poster**](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
 
 </div>
 </div>
@@ -81,31 +81,36 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Github**](https://github.com/xiaowuga/PrimFit) \| [**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
+[**Code**](https://github.com/xiaowuga/PrimFit) \| [**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023 </div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Accurate Registration of Cross-Modality Geometry via Consistent Clustering**](https://ieeexplore.ieee.org/document/10049688)
 
+**IEEE Transactions on Visualization and Computer Graphics 2023**
+
+
 Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
 
-[**Github**](https://github.com/zikai1/CrossModReg)
+[**Code**](https://github.com/zikai1/CrossModReg)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022 </div><img src='images/EDSF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EDSF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest**](https://ieeexplore.ieee.org/document/9859889)
 
+**IEEE International Conference on Multimedia and Expo 2022**
+
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Github**](https://github.com/xiaowuga/EDSF)
+[**Code**](https://github.com/xiaowuga/EDSF)
 
 </div>
 </div>
