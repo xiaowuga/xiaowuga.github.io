@@ -29,7 +29,7 @@ Outside of work, I am a big fan of Rubik's cube.
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/)
@@ -40,7 +40,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +48,7 @@ Outside of work, I am a big fan of Rubik's cube.
 [**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
 
 
-**IEEE Transactions on Pattern Analysis and Machine Intelligence 2024**
+**IEEE T-PAMI 2024, CCF-A**
 
 Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Dong-Ming Yan, Tiejun Huang
 
@@ -63,7 +63,7 @@ Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Don
 
 [**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
-**IEEE Conference on Computer Vision and Pattern Recognition 2024, Highlight**
+**IEEE CVPR 2024, <font color="red">Highlight</font>, CCF-A**
 
 Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
@@ -77,7 +77,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 [**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly_ICCV_2023_paper.pdf)
 
-**IEEE InternationalConference on Computer Vision 2023**
+**IEEE ICCV 2023, CCF-A**
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
@@ -91,7 +91,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 [**Accurate Registration of Cross-Modality Geometry via Consistent Clustering**](https://ieeexplore.ieee.org/document/10049688)
 
-**IEEE Transactions on Visualization and Computer Graphics 2023**
+**IEEE TVCG 2023, CCF-A**
 
 
 Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
@@ -106,7 +106,7 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 
 [**EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest**](https://ieeexplore.ieee.org/document/9859889)
 
-**IEEE International Conference on Multimedia and Expo 2022**
+**IEEE ICME 2022, CCF-B**
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup>
 
