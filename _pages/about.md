@@ -26,7 +26,7 @@ Outside of work, I am a big fan of Rubik's cube.
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper **DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models** got conditionally accepted by Siggraph 2025 Journal Track. 
 
-# 📝 Publications
+# 📝Selected Publications
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
@@ -42,7 +42,7 @@ Outside of work, I am a big fan of Rubik's cube.
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
@@ -55,7 +55,7 @@ Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Don
 [**Code**](https://github.com/zikai1/BayFit)
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
@@ -86,7 +86,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Accurate Registration of Cross-Modality Geometry via Consistent Clustering**](https://ieeexplore.ieee.org/document/10049688)
@@ -99,7 +99,7 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 [**Code**](https://github.com/zikai1/CrossModReg)
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EDSF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
