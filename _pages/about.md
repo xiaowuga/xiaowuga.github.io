@@ -29,33 +29,19 @@ Outside of work, I am a big fan of Rubik's cube.
 # 📝Selected Publications
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/)
 
-**SIGGRAPH 2025 Journal Track**
+**ACM Transactions on Graphics (SIGGRAPH 2025)**
 
 **Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
 
 
 </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/BayFit.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting**](https://ieeexplore.ieee.org/abstract/document/10608422) 
-
-
-**IEEE T-PAMI 2024, CCF-A**
-
-Mingyang Zhao, Xiaohong Jia, Lei Ma, Yuke Shi, **Jing-En Jiang**, Qizhai Li, Dong-Ming Yan, Tiejun Huang
-
-[**Code**](https://github.com/zikai1/BayFit)
-
 </div>
-</div> -->
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
@@ -72,7 +58,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly_ICCV_2023_paper.pdf)
