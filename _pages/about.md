@@ -34,7 +34,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/)
 
-**ACM Transactions on Graphics (SIGGRAPH 2025)**
+**ACM Transactions on Graphics (SIGGRAPH 2025), CCF-A**
 
 **Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
 
