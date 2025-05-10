@@ -24,7 +24,7 @@ Previously I received my master's degree in University of Chinese Academy of Sci
 Outside of work, I am a big fan of Rubik's cube.
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One paper got conditionally accepted by Siggraph 2025 Journal Track. 
+- *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025). 
 
 # 📝Selected Publications
 
