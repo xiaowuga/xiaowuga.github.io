@@ -38,6 +38,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 **Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
 
+[**Code**](https://github.com/xiaowuga/DeFillet)
 
 </div>
 </div>
@@ -67,7 +68,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Code**](https://github.com/xiaowuga/PrimFit) \| [**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0)
+[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**Windows_exe**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip)
 
 </div>
 </div>
