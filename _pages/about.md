@@ -32,7 +32,7 @@ Outside of work, I am a big fan of Rubik's cube.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/)
+[**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://dl.acm.org/doi/10.1145/3731166)
 
 **ACM Transactions on Graphics (SIGGRAPH 2025), CCF-A**
 
@@ -68,7 +68,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**Windows_exe**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip)
+[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**Windows_exe**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip) \| [**Poster**](https://xiaowuga.github.io/slides\ICCV2023_PrimFit_poster_v3.pdf)
 
 </div>
 </div>
