@@ -97,7 +97,7 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Code**](https://github.com/xiaowuga/EDSF)\| [**Slide*](https://xiaowuga.github.io/slides/EDSF_ICME_2022_v4.pptx)
+[**Code**](https://github.com/xiaowuga/EDSF)\| [**Slide**](https://xiaowuga.github.io/slides/EDSF_ICME_2022_v4.pptx)
 
 </div>
 </div>
