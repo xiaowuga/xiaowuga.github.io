@@ -68,7 +68,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**Windows_exe**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
+[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**EXE(Win)**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Code**](https://github.com/xiaowuga/EDSF)\| [**Slide**](https://xiaowuga.github.io/slides/EDSF_ICME_2022_v4.pptx)
+[**Code**](https://github.com/xiaowuga/EDSF) \| [**Slide**](https://xiaowuga.github.io/slides/EDSF_ICME_2022_v4.pptx)
 
 </div>
 </div>
