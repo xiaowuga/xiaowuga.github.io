@@ -32,7 +32,7 @@ Outside of work, I am a big fan of Rubik's cube.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://github.com/xiaowuga/xiaowuga.github.io/pub/static/pdf/Defillet_Sig_2025.pdf)
+[**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://xiaowuga.github.io/pub/static/pdf/DeFillet_Sig_2025.pdf)
 
 **ACM Transactions on Graphics (SIGGRAPH 2025), CCF-A**
 
