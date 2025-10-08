@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing-En Jiang (江敬恩). I am now a second year Ph.D student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). I am also working closely with [Dr. Mingyang Zhao](https://zikai1.github.io/).
+Hi! My name is Jing-En Jiang (江敬恩). I am now a third year Ph.D student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). I am also working closely with [Dr. Mingyang Zhao](https://zikai1.github.io/).
 
 Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. 
 
@@ -68,7 +68,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**EXE(Win)**](https://github.com/xiaowuga/PrimFit/releases/download/PrimFit_Windows_Release_v1.0/PrimFit_Windows_Release_v1.0.zip) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
+[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**EXE(Win)**](https://github.com/xiaowuga/PrimFit/releases) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
 
 </div>
 </div>
