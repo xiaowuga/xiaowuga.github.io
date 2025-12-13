@@ -38,7 +38,7 @@ Outside of work, I am a big fan of Rubik's cube.
 
 **Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
 
-[**Project**](https://xiaowuga.github.io/pub/DeFillet.html) \| [**Vedio**](https://www.bilibili.com/video/BV1aCtMzPEXe/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=092295aa747638ab207808257f039dea) \| [**Code**](https://github.com/xiaowuga/DeFillet) \| [**EXE(Coming Soon)**](https://xiaowuga.github.io/)
+[**Project**](https://xiaowuga.github.io/pub/DeFillet.html) \| [**Vedio**](https://www.bilibili.com/video/BV1aCtMzPEXe/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=092295aa747638ab207808257f039dea) \| [**Code**](https://github.com/xiaowuga/DeFillet) \| [**EXE(Win)**](https://github.com/xiaowuga/DeFillet/releases/tag/v1.0)
 
 </div>
 </div>
