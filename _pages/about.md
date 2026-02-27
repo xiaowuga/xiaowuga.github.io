@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing-En Jiang (江敬恩). I am now a third year Ph.D student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). I am also working closely with [Dr. Mingyang Zhao](https://zikai1.github.io/).
+Hi! My name is Jing-En Jiang (江敬恩). I am now a third year CS Ph.D student at Shandong University (SDU).
 
-Previously I received my master's degree in University of Chinese Academy of Sciences (UCAS) advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/). Even earlier, I was an undergraduate at Tiangong University, where I was active in competitive programming. 
+I am evolving from a background in classic geometry kernels to the field of Generative 3D, specializing in bridging geometric insights with deep learning. Currently, I am looking for internship opportunities to tackle challenging problems in 3D synthesis. I'm eager to contribute my skills to an innovative team!
 
 Outside of work, I am a big fan of Rubik's cube.
 
@@ -120,5 +120,5 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 - *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China
 - *2016.09 - 2020.06*, **B.Eng in Software Engineering**, Tiangong University, Tianjin, China
 
-# 💻 Internships
-- *2022.09 - 2023.06*, AMSS CAS,research in CAD Modeling advised by [Prof. Xiaohong Jia](http://www.mmrc.iss.ac.cn/~xhjia/).
+<!-- # 💻 Internships
+- *2022.09 - 2023.06*, AMSS CAS,research in CAD Modeling advised by [Prof. Xiaohong Jia](http://www.mmrc.iss.ac.cn/~xhjia/). -->
