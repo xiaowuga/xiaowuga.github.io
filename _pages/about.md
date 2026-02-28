@@ -19,7 +19,8 @@ redirect_from:
 
 Hi! My name is Jing-En Jiang (江敬恩). I am now a third year CS Ph.D student at Shandong University (SDU).
 
-I am evolving from a background in classic geometry kernels to the field of Generative 3D, specializing in bridging geometric insights with deep learning. Currently, I am looking for internship opportunities to tackle challenging problems in 3D synthesis. I'm eager to contribute my skills to an innovative team!
+I’m leveraging my background in CAD and mesh processing to dive into 3D generation—specifically for CAD and artist-facing meshes. 
+I’m now looking for an internship to tackle some cool challenges in this space with an innovative team!
 
 Outside of work, I am a big fan of Rubik's cube.
 
