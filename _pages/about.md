@@ -19,13 +19,17 @@ redirect_from:
 
 Hi! My name is Jing-En Jiang (江敬恩). I am now a third year CS Ph.D student at Shandong University (SDU).
 
-I’m leveraging my background in CAD and mesh processing to dive into 3D generation. 
-I’m now looking for an internship to tackle some cool challenges in this space with an innovative team!
+My research focuses on 3D generative models, 3D agents, and CAD-related problems.
 
-Outside of work, I am a big fan of Rubik's cube.
+Outside of work, I enjoy speedcubing and can solve a 3×3 Rubik's Cube in under 20 seconds.
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025). 
+- *2026.11*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
+
+
+# 💻 Internships
+- *2026.07 - 2026.11*, **Research Intern**, v2fun, working on 3D generative models.
+- *2026.11 - now*, **Research Intern**, Bambu Lab, working on 3D agents.
 
 # 📝Selected Publications
 
@@ -111,15 +115,18 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 
 [Github](https://github.com/weizequan/TASHR) -->
 
-# 🎖 Honors and Awards
-- **Merit Student 2022**, University of Chinese Academy of Sciences
-- *2018.12* **Silver Medal**, ACM/ICPC Asia-East Continent Final
-- *2018.09* **Silver Medal**, China Collegiate Programming Contest
+
 
 # 📖 Educations
-- *2023.09 - now*, **Ph.D in Computer Technology**, in progress, Shandong University, Qindao, Shandong, China
-- *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China
+- *2023.09 - now*, **Ph.D in Computer Technology**, in progress, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
+- *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
 - *2016.09 - 2020.06*, **B.Eng in Software Engineering**, Tiangong University, Tianjin, China
 
-<!-- # 💻 Internships
-- *2022.09 - 2023.06*, AMSS CAS,research in CAD Modeling advised by [Prof. Xiaohong Jia](http://www.mmrc.iss.ac.cn/~xhjia/). -->
+
+# 🎖 Honors and Awards
+- *2025* **Dean's Scholarship** and **First-Class Academic Scholarship**, School of Computer Science and Technology, Shandong University
+- **Merit Student 2022**, University of Chinese Academy of Sciences
+- *2018.12* [**Silver Medal**](https://icpc.global/ICPCID/9TIGI8D06O3U), ACM/ICPC Asia-East Continent Final
+- *2018.09* [**Silver Medal**](https://ccpc.io/post/135), China Collegiate Programming Contest
+
+
