@@ -17,45 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing-En Jiang (江敬恩). I am now a third year CS Ph.D student at Shandong University (SDU).
+Hi! My name is Jing-En Jiang (江敬恩). I am a fourth-year Ph.D. student in Computer Science at Shandong University (SDU), advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
 
 My research focuses on 3D generative models, 3D agents, and CAD-related problems.
 
 Outside of work, I enjoy speedcubing and can solve a 3×3 Rubik's Cube in under 20 seconds.
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
-
+- *2026.10*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
+- *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025).
 
 # 💻 Internships
-- *2026.07 - 2026.11*, **Research Intern**, v2fun, working on 3D generative models.
-- *2026.11 - now*, **Research Intern**, Bambu Lab, working on 3D agents.
+- *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
+- *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with Xibin Song and Senbo Wang.
 
-# 📝Selected Publications
+# 📝 Selected Publications
+
+<sup>*</sup> Equal contribution, <sup>$\dagger$</sup> Corresponding author
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DeFillet2.jpg' alt="DeFillet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models**](https://raw.githubusercontent.com/xiaowuga/xiaowuga.github.io/main/pub/static/pdf/Defillet_Sig_2025.pdf)
 
 **ACM Transactions on Graphics (SIGGRAPH 2025), CCF-A**
 
-**Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen,Shiqing Xin, Changhe Tu, Wenping Wang
+**Jing-En Jiang**, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen, Shiqing Xin, Changhe Tu, Wenping Wang
 
-[**Project**](https://xiaowuga.github.io/pub/DeFillet.html) \| [**Vedio**](https://www.bilibili.com/video/BV1aCtMzPEXe/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=092295aa747638ab207808257f039dea) \| [**Code**](https://github.com/xiaowuga/DeFillet) \| [**EXE(Win)**](https://github.com/xiaowuga/DeFillet/releases/tag/v1.0)
+[**Project**](https://xiaowuga.github.io/pub/DeFillet.html) \| [**Video**](https://www.bilibili.com/video/BV1aCtMzPEXe/) \| [**Code**](https://github.com/xiaowuga/DeFillet) \| [**EXE(Win)**](https://github.com/xiaowuga/DeFillet/releases/tag/v1.0)
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR24.png' alt="Correspondence-Free Non-Rigid Point Set Registration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Correspondence-Free_Non-Rigid_Point_Set_Registration_Using_Unsupervised_Clustering_Analysis_CVPR_2024_paper.pdf) 
 
-**IEEE CVPR 2024, <font color="red">Highlight</font>, CCF-A**
+**IEEE CVPR 2024, <span style="color:red">Highlight</span>, CCF-A**
 
 Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Yan
 
@@ -64,7 +66,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PrimFit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PrimFit.png' alt="PrimFit" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Structure-Aware Surface Reconstruction via Primitive Assembly**](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Structure-Aware_Surface_Reconstruction_via_Primitive_Assembly_ICCV_2023_paper.pdf)
@@ -73,27 +75,12 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 
 **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Shiqing Xin, Yanchao Yang, Hanxiao Wang, Xiaohong Jia, Dong-Ming Yan<sup>$\dagger$</sup>
 
-[**Vedio**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**EXE(Win)**](https://github.com/xiaowuga/PrimFit/releases) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
+[**Video**](https://www.youtube.com/watch?v=a5w2-0mOcS0) \| [**Code**](https://github.com/xiaowuga/PrimFit) \| [**EXE(Win)**](https://github.com/xiaowuga/PrimFit/releases) \| [**Poster**](https://xiaowuga.github.io/slides/ICCV2023_PrimFit_poster_v3.pdf)
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/TVCG_cross_reg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Accurate Registration of Cross-Modality Geometry via Consistent Clustering**](https://ieeexplore.ieee.org/document/10049688)
-
-**IEEE TVCG 2023, CCF-A**
-
-
-Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma
-
-[**Code**](https://github.com/zikai1/CrossModReg)
-
-</div>
-</div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/EDSF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EDSF.jpg' alt="EDSF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest**](https://ieeexplore.ieee.org/document/9859889)
@@ -107,25 +94,15 @@ Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Le
 </div>
 </div>
 
-<!-- - ``TVCG 2023`` [Accurate Registration of Cross-Modality Geometry via Consistent Clustering](https://ieeexplore.ieee.org/document/10049688), Mingyang Zhao, Xiaoshui Huang, **Jing-En Jiang**, Luntian Mou, Dong-Ming Yan, Lei Ma -->
-<!-- - ``ICME 2022`` [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](http://2022.ieeeicme.org/), **Jing-En Jiang<sup>*</sup>**, Mingyang Zhao<sup>*</sup>, Zeyu Shen, Dong-Ming Yan<sup>$\dagger$</sup> 
-
-[Github](https://github.com/xiaowuga/EDSF)
-- ``PRCV 2021`` [Text-Aware Single Image Specular Highlight Removal](https://weizequan.github.io/PRCV2021/paper.pdf), Shiyu Hou, Chaoqun Wang, Weize Quan, **Jing-En Jiang**, Dong-Ming Yan  
-
-[Github](https://github.com/weizequan/TASHR) -->
-
-
-
-# 📖 Educations
-- *2023.09 - now*, **Ph.D in Computer Technology**, in progress, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
-- *2020.09 - 2023.06*, **M.Eng in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
-- *2016.09 - 2020.06*, **B.Eng in Software Engineering**, Tiangong University, Tianjin, China
+# 📖 Education
+- *2023.09 - now*, **Ph.D. in Computer Technology**, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
+- *2020.09 - 2023.06*, **M.Eng. in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
+- *2016.09 - 2020.06*, **B.Eng. in Software Engineering**, Tiangong University, Tianjin, China
 
 
 # 🎖 Honors and Awards
 - *2025* **Dean's Scholarship** and **First-Class Academic Scholarship**, School of Computer Science and Technology, Shandong University
-- **Merit Student 2022**, University of Chinese Academy of Sciences
+- *2022* **Merit Student**, University of Chinese Academy of Sciences
 - *2018.12* [**Silver Medal**](https://icpc.global/ICPCID/9TIGI8D06O3U), ACM/ICPC Asia-East Continent Final
 - *2018.09* [**Silver Medal**](https://ccpc.io/post/135), China Collegiate Programming Contest
 
