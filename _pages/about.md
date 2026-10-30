@@ -24,12 +24,12 @@ My research focuses on 3D generative models, 3D agents, and CAD-related problems
 Outside of work, I enjoy speedcubing and can solve a 3×3 Rubik's Cube in under 20 seconds.
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
+- *2026.10*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern.
 - *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025).
 
 # 💻 Internships
-- *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
-- *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with Xibin Song and Senbo Wang.
+- <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
+- <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with Xibin Song and Senbo Wang.
 
 # 📝 Selected Publications
 
@@ -95,15 +95,15 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 
 # 📖 Education
-- *2023.09 - now*, **Ph.D. in Computer Technology**, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
-- *2020.09 - 2023.06*, **M.Eng. in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
-- *2016.09 - 2020.06*, **B.Eng. in Software Engineering**, Tiangong University, Tianjin, China
+- <img src='images/logos/sdu.png' alt='Shandong University' style='height:1.3em; vertical-align:middle'> *2023.09 - now*, **Ph.D. in Computer Technology**, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
+- <img src='images/logos/ucas.png' alt='University of Chinese Academy of Sciences' style='height:1.3em; vertical-align:middle'> *2020.09 - 2023.06*, **M.Eng. in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
+- <img src='images/logos/tiangong.png' alt='Tiangong University' style='height:1.3em; vertical-align:middle'> *2016.09 - 2020.06*, **B.Eng. in Software Engineering**, Tiangong University, Tianjin, China
 
 
 # 🎖 Honors and Awards
 - *2025* **Dean's Scholarship** and **First-Class Academic Scholarship**, School of Computer Science and Technology, Shandong University
 - *2022* **Merit Student**, University of Chinese Academy of Sciences
-- *2018.12* [**Silver Medal**](https://icpc.global/ICPCID/9TIGI8D06O3U), ACM/ICPC Asia-East Continent Final
-- *2018.09* [**Silver Medal**](https://ccpc.io/post/135), China Collegiate Programming Contest
+- <img src='images/logos/icpc.png' alt='ICPC' style='height:1.3em; vertical-align:middle'> *2018.12* [**Silver Medal**](https://icpc.global/ICPCID/9TIGI8D06O3U), ACM/ICPC Asia-East Continent Final
+- <img src='images/logos/ccpc.png' alt='CCPC' style='height:1.3em; vertical-align:middle'> *2018.09* [**Silver Medal**](https://ccpc.io/post/135), China Collegiate Programming Contest
 
 
