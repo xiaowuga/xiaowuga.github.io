@@ -29,7 +29,7 @@ Outside of research, I enjoy speedcubing, with a sub-20-second 3×3 solve.
 
 # 💻 Internships
 - <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/) and [Duoteng Xu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=uDz-ISgAAAAJ).
-- <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with [Xibin Song](https://faculty.sdu.edu.cn/songxibin/zh_CN/index.htm) and [Senbo Wang](https://scholar.google.com/citations?user=J6ylgW0AAAAJ&hl=zh-CN).
+- <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, V2Fun, working on 3D generative models with [Xibin Song](https://faculty.sdu.edu.cn/songxibin/zh_CN/index.htm) and [Senbo Wang](https://scholar.google.com/citations?user=J6ylgW0AAAAJ&hl=zh-CN).
 
 # 📝 Selected Publications
 
