@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jing-En Jiang (江敬恩). I am a fourth-year Ph.D. student in Computer Science at Shandong University (SDU), advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
+Hi! My name is Jing-En Jiang (江敬恩), a fourth-year Ph.D. student in Computer Science at Shandong University. 
 
-My research focuses on 3D generative models, 3D agents, and CAD-related problems.
+My research focuses on 3D generation and agentic 3D/CAD workflows, with the goal of making 3D content creation more useful for real design and manufacturing pipelines. I received my M.Eng. from the University of Chinese Academy of Sciences and my B.Eng. from Tiangong University.
 
-Outside of work, I enjoy speedcubing and can solve a 3×3 Rubik's Cube in under 20 seconds.
+Outside of research, I enjoy speedcubing, with a sub-20-second 3×3 solve.
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern.
 - *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025).
 
 # 💻 Internships
-- <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/).
-- <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with Xibin Song and Senbo Wang.
+- <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/) and [Duoteng Xu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=uDz-ISgAAAAJ).
+- <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, v2fun, working on 3D generative models with [Xibin Song](https://faculty.sdu.edu.cn/songxibin/zh_CN/index.htm) and [Senbo Wang](https://scholar.google.com/citations?user=J6ylgW0AAAAJ&hl=zh-CN).
 
 # 📝 Selected Publications
 
@@ -95,7 +95,7 @@ Mingyang Zhao, **Jing-En Jiang**, Lei Ma, Shiqing Xin, Gaofeng Meng, Dong-Ming Y
 </div>
 
 # 📖 Education
-- <img src='images/logos/sdu.png' alt='Shandong University' style='height:1.3em; vertical-align:middle'> *2023.09 - now*, **Ph.D. in Computer Technology**, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm).
+- <img src='images/logos/sdu.png' alt='Shandong University' style='height:1.3em; vertical-align:middle'> *2023.09 - now*, **Ph.D. in Computer Technology**, Shandong University, Qingdao, Shandong, China, advised by [Prof. Changhe Tu](https://faculty.sdu.edu.cn/tuzhanghe/en/index.htm) and [Prof. Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html).
 - <img src='images/logos/ucas.png' alt='University of Chinese Academy of Sciences' style='height:1.3em; vertical-align:middle'> *2020.09 - 2023.06*, **M.Eng. in Electronic and Information Engineering**, University of Chinese Academy of Sciences, Beijing, China, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/).
 - <img src='images/logos/tiangong.png' alt='Tiangong University' style='height:1.3em; vertical-align:middle'> *2016.09 - 2020.06*, **B.Eng. in Software Engineering**, Tiangong University, Tianjin, China
 
