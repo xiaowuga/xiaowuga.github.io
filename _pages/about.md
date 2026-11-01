@@ -21,14 +21,16 @@ Hi! My name is Jing-En Jiang (江敬恩), a fourth-year Ph.D. student in Compute
 
 My research focuses on 3D generation and agentic 3D/CAD workflows, with the goal of making 3D content creation more useful for real design and manufacturing pipelines. I received my M.Eng. from the University of Chinese Academy of Sciences and my B.Eng. from Tiangong University.
 
+You can find my CV here: [**Download CV (PDF)**](cv/JingEnCV.pdf).
+
 Outside of research, I enjoy speedcubing, with a sub-20-second 3×3 solve.
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern.
+- *2026.11*: &nbsp;🎉🎉 I joined Bambu Lab as a research intern.
 - *2025.03*: &nbsp;🎉🎉 One paper got accepted by ACM Transactions on Graphics (SIGGRAPH 2025).
 
 # 💻 Internships
-- <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.10 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/) and [Duoteng Xu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=uDz-ISgAAAAJ).
+- <img src='images/logos/bambulab.svg' alt='Bambu Lab' style='height:1.3em; vertical-align:middle'> *2026.11 - now*, **Research Intern**, Bambu Lab, working on 3D agents with [Buyu Li](https://libuyu.github.io/) and [Duoteng Xu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=uDz-ISgAAAAJ).
 - <img src='images/logos/v2fun.png' alt='v2fun' style='height:1.3em; vertical-align:middle'> *2026.07 - 2026.10*, **Research Intern**, V2Fun, working on 3D generative models with [Xibin Song](https://faculty.sdu.edu.cn/songxibin/zh_CN/index.htm) and [Senbo Wang](https://scholar.google.com/citations?user=J6ylgW0AAAAJ&hl=zh-CN).
 
 # 📝 Selected Publications
